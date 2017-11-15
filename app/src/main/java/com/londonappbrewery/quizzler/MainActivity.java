@@ -16,14 +16,14 @@ public class MainActivity extends Activity {
 
     // TODO: Declare member variables here:
 
-    Button true_botton;
-    Button false_button;
-    TextView mQuestionView;
-    int mIndex;
-    int mScore;
-    int mQuestion;
-    TextView mScoreTextView;
-    ProgressBar mProgressBar;
+    private Button true_botton;
+    private Button false_button;
+    private TextView mQuestionView;
+    private int mIndex;
+    private int mScore;
+    private int mQuestion;
+    private TextView mScoreTextView;
+    private ProgressBar mProgressBar;
 
 
     // TODO: Uncomment to create question bank
